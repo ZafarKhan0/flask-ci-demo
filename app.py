@@ -11,5 +11,3 @@ def home():
 
 if __name__ == '__main__':
     app.run(debug=True)
-
-# Add this newline at the end (no text after it!)
